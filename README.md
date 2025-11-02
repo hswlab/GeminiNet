@@ -5,7 +5,7 @@
 
 GeminiNet is a graphical user interface for chatting with the official Gemini API. 
 It is still in development. You can have a try on windows or linux. You need an ApiKey to enable the chat function, that you can get here for free:  
-https://ai.google.dev/gemini-api/docs/api-key?hl=de&authuser=1 
+https://ai.google.dev/gemini-api/docs/api-key
 
 [![GitHub release (with filter)](https://img.shields.io/github/downloads/hswlab/GeminiNet/total?style=for-the-badge&label=download%20GeminiNet
 )](https://github.com/hswlab/GeminiNet/releases/latest)
