@@ -10,7 +10,17 @@ https://ai.google.dev/gemini-api/docs/api-key
 [![GitHub release (with filter)](https://img.shields.io/github/downloads/hswlab/GeminiNet/total?style=for-the-badge&label=download%20GeminiNet
 )](https://github.com/hswlab/GeminiNet/releases/latest)
 
-*Main features:*
+# Main features:
 - [X] Chat with Gemini API.
+
+# Features developing now:
+- [X] Update function.
+      
+# Features developed next:
+- [ ] Dynamic textarea height on Linux, when streaming an AI response (Currently just available on Windows)
+- [ ] Selecting App Language (Currently there is a mix of German and English lables and texts ^^').
+- [ ] .desktop Icon instead of .sh file for starting the app with software rendering on Linux. (For poor people like me, if the GPU drivers are note available anymore XD)
+- [ ] Fixing code appearance for historized conversations. 
+- [ ] Continue Conversation from History
 
 ![preview](https://github.com/hswlab/GeminiNET/blob/main/GeminiNET.png)
