@@ -21,6 +21,6 @@ https://ai.google.dev/gemini-api/docs/api-key
 - [ ] Selecting App Language (Currently there is a mix of German and English lables and texts ^^').
 - [ ] .desktop Icon instead of .sh file for starting the app with software rendering on Linux. (For poor people like me, if the GPU drivers are note available anymore XD)
 - [ ] Fixing code appearance for historized conversations. 
-- [ ] Continue Conversation from History
+- [ ] Continue an existing conversation from history.
 
 ![preview](https://github.com/hswlab/GeminiNET/blob/main/GeminiNET.png)
