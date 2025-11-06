@@ -17,7 +17,6 @@ https://ai.google.dev/gemini-api/docs/api-key
 - [X] Update function.
       
 # Features developed next:
-- [ ] Change shift+enter to ctr+enter for submitting a prompt. (I'm getting confused with the current shortcut x_x)
 - [ ] Dynamic textarea height on Linux, when streaming an AI response (Currently just available on Windows)
 - [ ] Selecting App Language (Currently there is a mix of German and English lables and texts ^^').
 - [ ] .desktop Icon instead of .sh file for starting the app with software rendering on Linux. (For poor people like me, if the GPU drivers are note available anymore XD)
