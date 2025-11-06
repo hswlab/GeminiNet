@@ -12,7 +12,7 @@ https://ai.google.dev/gemini-api/docs/api-key
 
 # Main features:
 - [X] Chat with Gemini API.
-- [X] Option to Update GeminiNET to a new version directly in the APP
+- [X] Option to update GeminiNET to a new version directly in the APP
 
 # Features developing now:
 - [ ] Fixing code appearance for historized conversations. 
