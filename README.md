@@ -14,8 +14,8 @@ https://ai.google.dev/gemini-api/docs/api-key
 - [X] Chat with Gemini API.
 - [X] Option to update GeminiNET to a new version directly in the APP
 
-# Features developing now:
-- [ ] Fixing code appearance for historized conversations. 
+# Features developing now / Bugs fixing now:
+- [ ] Bugfix: Sometimes, if you try to switch from history to chat view, and there ist still a code suggestion left in the chat view, the code suggestion destroys the chat view. 
       
 # Features developed next:
 - [ ] Dynamic textarea height on Linux, when streaming an AI response (Currently just available on Windows)
