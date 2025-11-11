@@ -15,10 +15,9 @@ https://ai.google.dev/gemini-api/docs/api-key
 - [X] Option to update GeminiNET to a new version directly in the APP
 
 # Features developing now / Bugs fixing now:
-- [ ] Bugfix: Sometimes, if you try to switch from history to chat view, and there ist still a code suggestion left in the chat view, the code suggestion destroys the chat view. 
+- [ ] Dynamic textarea height on Linux, when streaming an AI response (Currently just available on Windows)
       
 # Features developed next:
-- [ ] Dynamic textarea height on Linux, when streaming an AI response (Currently just available on Windows)
 - [ ] Selecting App Language (Currently there is a mix of German and English lables and texts ^^').
 - [ ] .desktop Icon instead of .sh file for starting the app with software rendering on Linux. (For poor people like me, if the GPU drivers are note available anymore XD)
 - [ ] Continue an existing conversation from history.
